@@ -1,0 +1,14 @@
+Tú:  Pedro Suárez
+ELISA: ¡Mucho gusto,  Pedro Suárez! ¿En qué puedo ayudarte hoy?
+Tú:  con una tarea de matemática
+ELISA: ¡Hola! Para solucionar una tarea de matemáticas, sigue estos pasos:
+
+1. Lee cuidadosamente la pregunta para entenderla correctamente.
+2. Recuerda los conceptos que se necesitan para resolverla.
+3. Aplica la fórmula o procedimiento correspondiente.
+4. Revisa y corrige tus pasos.
+5. Presenta la solución en forma clara y concisa.
+
+Recuerda: ¡Pregunta si tienes dudas! Sigo aquí para ayudarte.
+Tú:  Muchas gracias, Elisa, hasta luego.
+ELISA: ¡De nada! ¡Siempre estoy a tu disposición para ayudarte en tus estudios! Hasta pronto.
